@@ -30,7 +30,7 @@ public void myEmptyMethod(){
 }
 
 public double devide(double num, double denum) {
-return num / denum ;
+return num / 0.0 ;
 }
 
 
