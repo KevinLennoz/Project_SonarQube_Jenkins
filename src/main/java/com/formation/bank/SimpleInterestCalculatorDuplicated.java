@@ -1,6 +1,6 @@
 package com.formation.bank;
 
-public class SimpleInterestCalculator2 implements InterestCalculator {
+public class SimpleInterestCalculatorDuplicated implements InterestCalculator {
 	
 	private double rate;
 
